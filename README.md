@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdonW02
+- I am currently studying programming and intend to become proficient in various languages,
+- including JavaScript, C#, C++, and MySQL.
+- It is possible that this list of languages may be subject to change in the future.
